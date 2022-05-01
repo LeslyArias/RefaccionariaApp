@@ -1,0 +1,9 @@
+body {
+    background-color:red;
+}
+
+.bg {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdR70UjZswSKukjEA6YWTAfDEKN3GKhuwyw&usqp=CAU");
+    background-position: center center;
+
+}
